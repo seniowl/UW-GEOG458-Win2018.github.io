@@ -12,4 +12,4 @@ layout: layout
 
 #### Our pictures including the pentagon and n-sided figure
 #### Work by Quezan & Nikhil
-![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/nsingh15-quezanw-gallery.svg
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/nsingh15-quezanw-gallery.svg)
