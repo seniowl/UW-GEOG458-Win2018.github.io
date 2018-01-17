@@ -1,4 +1,4 @@
-UW-GEOG458-Winter2018.github.io
+UW-GEOG458-Win2018.github.io
 ============================
 
 Class webpages
