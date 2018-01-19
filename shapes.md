@@ -29,4 +29,4 @@ layout: layout
 
 #### Shapes by Eddy T, Luis DT, Daniel Davis
 ![Eddygallery](http://uw-geog458-win2018.github.io/galleries/shapes/Eddygallery.svg)
-![davisdan-gallery](http://uw-geog458-win2018.github.io/galleries/shapes/davisdan_gallery.svg)
+![davisdan-gallery](http://uw-geog458-win2018.github.io/galleries/shapes/davisdan-gallery.svg)
