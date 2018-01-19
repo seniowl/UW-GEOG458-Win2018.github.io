@@ -28,5 +28,5 @@ layout: layout
 ![Husky Pride](http://uw-geog458-win2018.github.io/galleries/shapes/huskypride.svg)
 
 #### Shapes by Eddy T, Luis DT, Daniel Davis
-![Eddygallery](http://uw-geog458-win2018.github.io/galleries/shapes/eddygallery.svg)
+![Eddygallery](http://uw-geog458-win2018.github.io/galleries/shapes/Eddygallery.svg)
 
