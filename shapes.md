@@ -16,3 +16,6 @@ layout: layout
 
 #### Work by Frank & Jonathan
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/frankhan95_JonathanAbarcarJr.svg)
+
+#### Shapes by Sheena & Marvin!
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/sheenaw-gallery.svg)
