@@ -19,3 +19,10 @@ layout: layout
 
 #### Shapes by Sheena & Marvin!
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/sheenaw-gallery.svg)
+
+#### Shapes by Yulong, Kuo, & Sara
+![Stickman](galleries/shapes/stickman.svg)
+![Python-logo](galleries/shapes/python-logo.svg)
+
+
+
