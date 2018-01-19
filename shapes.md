@@ -32,3 +32,6 @@ layout: layout
 
 #### Shapes by Daniel Kim & Menno Sennesael
 ![A shape](https://github.com/UW-Geog458-Win2018/UW-GEOG458-Win2018.github.io/blob/master/galleries/shapes/dtm96-gallery.svg)
+
+#### Shape by Laura!
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/seniowl-gallery.svg)
