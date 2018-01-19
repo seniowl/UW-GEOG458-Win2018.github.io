@@ -24,5 +24,6 @@ layout: layout
 ![Stickman](galleries/shapes/stickman.svg)
 ![Python-logo](galleries/shapes/python-logo.svg)
 
-
+#### Shapes by Travis & Martin!
+![Husky Pride](http://uw-geog458-win2018.github.io/galleries/shapes/huskypride.svg)
 
