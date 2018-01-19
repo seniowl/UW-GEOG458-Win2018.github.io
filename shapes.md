@@ -27,6 +27,5 @@ layout: layout
 #### Shapes by Travis & Martin!
 ![Husky Pride](http://uw-geog458-win2018.github.io/galleries/shapes/huskypride.svg)
 
-#### Shapes by Eddy T, Luis DT, Daniel Davis
-![Eddygallery](http://uw-geog458-win2018.github.io/galleries/shapes/Eddygallery.svg)
-![davisdan-gallery](http://uw-geog458-win2018.github.io/galleries/shapes/davisdan-gallery.svg)
+### A purple star by Kim Vo & Alexandra Campanilla
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/KimVo_AlexandraCampanilla.svg)
